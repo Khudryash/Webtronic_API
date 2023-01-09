@@ -25,6 +25,7 @@ This is a simple RESTful API for a social networking application. It's written w
 |FastAPI|0.89.0|
 |AuthLib|1.2.0|
 |SQLAlchemy|1.4.46|
+|SQLite|3.0|
 |Pydantic|1.10.4|
 |Passlib|1.7.4|
 
